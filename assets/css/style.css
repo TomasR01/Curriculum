@@ -1,0 +1,20 @@
+body{
+    font-family: "Raleway", sans-serif;
+    background-image: url(../img/Fondo.jpg);
+    background-size: cover;
+}
+hr{
+    color: red;
+}
+p{
+    text-align: center;
+}
+.card-body{
+    background-color: rgb(215, 215, 163);
+}
+.card-title{
+    color: red;
+}
+footer{
+    background-color: aquamarine;
+}
