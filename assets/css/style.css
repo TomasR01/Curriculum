@@ -19,3 +19,11 @@ p {
 footer{
     height: 90px;
 }
+
+footer a {
+  font-size: 18px;
+  display: inline-block;
+  color: #0b0c0e;
+  line-height: 1;
+  margin-right: 10px;
+}
